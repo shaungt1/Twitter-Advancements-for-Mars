@@ -14,4 +14,4 @@ Considering the unique and challenging living conditions on Mars, what technolog
 Create advanced new features that are not present in any current Earth-based technology to support the needs of an entire civilization?
 
 
-![Document Link Here:]([https://www.example.com](https://github.com/shaungt1/Twitter-Advancements-for-Mars/blob/main/Twitter%20Advancements%20for%20Mars.pdf)https://github.com/shaungt1/Twitter-Advancements-for-Mars/blob/main/Twitter%20Advancements%20for%20Mars.pdf)
+[PDF - Twitter Advancements for Mars](https://github.com/shaungt1/Twitter-Advancements-for-Mars/blob/main/Twitter%20Advancements%20for%20Mars.pdf)
