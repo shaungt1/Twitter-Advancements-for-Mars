@@ -1,2 +1,15 @@
 # Twitter-Advancements-for-Mars
-Twitter Advancements for Mars - A thought project and comprhensive list of features to enhance Twitter as the dominat Social Media platform in the galxy
+The Twitter Advancements for Mars - A comprehensive list of features to enhance Twitter as the dominant social media platform in the galaxy
+
+```
+- Author: Shaun Pritchard 
+- Affiliation: College of Engineering and Computer Science, Florida Atlantic University 
+- Email: spritchard2021@fau.edu
+- Jul 7, 2023
+```
+### Twitter thought experiment?
+
+Considering the unique and challenging living conditions on Mars, what technological adaptations will be required for Twitter to successfully support the complexities of human civilization, including all communication needs including those related to culture, science, art, economics, politics, etc. ; as the only communication platform tool?
+
+Create advanced new features that are not present in any current Earth-based technology to support the needs of an entire civilization?
+
